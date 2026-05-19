@@ -14,7 +14,6 @@
 ## 👨‍💻 About Me
 
 - 🎓 Studying **Analysis and Systems Development** at UNIFAAT — Atibaia, SP
-- 💼 **IT Intern & Fleet Assistant** at Avant
 - 🚀 Building real projects to grow as a developer
 - 📍 Bom Jesus dos Perdões, SP — Brazil
 
